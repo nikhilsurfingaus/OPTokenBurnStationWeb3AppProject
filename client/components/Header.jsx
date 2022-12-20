@@ -7,6 +7,7 @@ import siteLogo from '../assets/siteLogo.png'
 import title from '../assets/title.png'
 import { TransactionContext } from '../context/TransactionContext'
 import { useContext } from 'react'
+import 'animate.css';
 
 const style = {
   wrapper: `p-4 w-screen flex justify-between items-center`,
@@ -41,6 +42,7 @@ function Header() {
   console.log({connectWallet, currentAccount})
 
   return (
+    <div className='animate__animated animate__fadeInDown'>
     <div className={style.wrapper}>
       <div className={style.headerLogo}>
         <Image src={siteLogo} alt='op burnnnn' height={80} width={80} />
@@ -70,6 +72,7 @@ function Header() {
             </div>
           </div>)}
       </div>
+    </div>
     </div>
   )
 }

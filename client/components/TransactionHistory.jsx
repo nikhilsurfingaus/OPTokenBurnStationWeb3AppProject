@@ -5,6 +5,7 @@ import { TransactionContext } from '../context/TransactionContext'
 import Image from 'next/image'
 import ethLogo from '../assets/ethCurrency.png'
 import { FiArrowUpRight } from 'react-icons/fi'
+import 'animate.css';
 
 const style = {
     wrapper: `h-full text-white select-none h-full w-screen flex-1 pt-14 flex items-end justify-end pb-12 px-8`,
@@ -35,6 +36,7 @@ const TransactionHistory = () => {
         })()
     }, [isLoading, currentAccount])
     return (
+      <div className='animate__animated animate__fadeInUp'>
         <div className={style.wrapper}>
           <div>
             {transactionHistory &&
@@ -70,6 +72,7 @@ const TransactionHistory = () => {
                 </div>
               ))}
           </div>
+        </div>
         </div>
       )
 }

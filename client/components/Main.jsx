@@ -112,6 +112,8 @@ const Main = () => {
           <Modal isOpen={!!router.query.loading} style={customStyles} >
             <TransactionLoader />
           </Modal>
+
+          
           <Footer />
           <ReactTooltip
             anchorId="refresh-text"

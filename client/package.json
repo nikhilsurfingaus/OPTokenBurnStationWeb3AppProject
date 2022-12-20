@@ -8,6 +8,7 @@
   "dependencies": {
     "@emotion/react": "^11.10.5",
     "@sanity/client": "^3.4.1",
+    "animate.css": "^4.1.1",
     "ethers": "^5.7.2",
     "next": "latest",
     "react": "18.2.0",
