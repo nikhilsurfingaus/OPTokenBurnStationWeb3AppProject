@@ -57,15 +57,10 @@ Our website offers the following features:
 
 ## Screenshots 
 <p float="left">
-  <img src="https://github.com/nikhilsurfingaus/QuiverNFTWebApp/blob/master/src/assets/github/1.jpg" height=300 width="320" />
-  <img src="https://github.com/nikhilsurfingaus/QuiverNFTWebApp/blob/master/src/assets/github/2nd.jpg" height=300 width="320" /> 
-  <img src="https://github.com/nikhilsurfingaus/QuiverNFTWebApp/blob/master/src/assets/github/3.jpg" height=300 width="320" />
-</p>
-
-<p float="left">
-  <img src="https://github.com/nikhilsurfingaus/QuiverNFTWebApp/blob/master/src/assets/github/4.jpg" height=300 width="320" />
-  <img src="https://github.com/nikhilsurfingaus/QuiverNFTWebApp/blob/master/src/assets/github/5.jpg" height=300 width="320" /> 
-  <img src="https://github.com/nikhilsurfingaus/QuiverNFTWebApp/blob/master/src/assets/github/6.jpg" height=300 width="320" />
+  <img src="https://github.com/nikhilsurfingaus/OPTokenBurnStationWeb3AppProject/blob/master/client/assets/1.png" height=45% width=45% />
+  <img src="https://github.com/nikhilsurfingaus/OPTokenBurnStationWeb3AppProject/blob/master/client/assets/2.png" height=45% width=45% />
+  <img src="https://github.com/nikhilsurfingaus/OPTokenBurnStationWeb3AppProject/blob/master/client/assets/3.png" height=45% width=45% />
+  <img src="https://github.com/nikhilsurfingaus/OPTokenBurnStationWeb3AppProject/blob/master/client/assets/4.png" height=45% width=45% />
 </p>
 
 ## Libraries
