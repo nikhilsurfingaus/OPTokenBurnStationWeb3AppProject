@@ -11,7 +11,7 @@ src="https://www.rlogical.com/wp-content/uploads/2021/08/Rlogical-Blog-Images-th
 <img src="https://cryptologos.cc/logos/optimism-ethereum-op-logo.png" alt="drawing" width="100"/>
 <img src="https://avatars.githubusercontent.com/u/59892387?v=4" alt="drawing" width="100"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/MetaMask_Fox.svg/2048px-MetaMask_Fox.svg.png" alt="drawing" width="100"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" alt="drawing" width="100"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" alt="drawing" width="100"/> <img src="https://particles.js.org/tsParticles-64.png" alt="drawing" width="100"/>
 
 - **React** Framework Library Web Application Optimism Burn Station Web Application currently deployed on the OP ETH Goerli Testnet enables users to burn their OP Tokens, decreasing circulating supply, subsequently increasing the value of the OP Tokenomics.
 
@@ -20,7 +20,7 @@ src="https://www.rlogical.com/wp-content/uploads/2021/08/Rlogical-Blog-Images-th
 - **Metamask** is also integrated, enabling users to connect their Metamask wallet to burn OP Tokens, as a transaction with the server side
 Ethereum Deployed Solidty Smart Contract
 
-- **Sanity** Datastore is the schemaless backend that stores and query's JSON documents, and subscribe to real-time changes. It comes with a query API that uses the query language GROQ to quickly filter down to the documents exactly the data structured using those schemas. 
+- **Sanity** Datastore is the schemaless backend that stores and query's JSON documents including all users and their transaction history, and subscribe to real-time changes. It comes with a query API that uses the query language GROQ to quickly filter down to the documents exactly the data structured using those schemas. 
 
 - **Hardhat** is the development environment that compiled and deployed this **dApp** on the Ethereum blockchain.
 
@@ -30,23 +30,18 @@ Ethereum Deployed Solidty Smart Contract
 
 - **Tailwind.css** makes it quicker to write and maintain the application code. By using this utility-first framework, don't have to write custom CSS to style in the  application. Instead, use utility classes to control the padding, margin, color, font, shadow, and more of the application.
 
+- **tsParticles** is library used for the interatcive live particles background display, allowing for improved UX embedded within the User Interface.
 
 ## Description 
 Quiver calls all ocean lovers and wave chargers to own pieces of surfing history with NFT surfboards ridden by current and past legends of proffessional surfing. Quiver also aims to contribute towards the security of Ethereum Smart Contarcts with numerous projects that need your support.
 
 Our website offers the following features:
 
-- NFT Market Place
-
-- Interactive Roadmap
-
-- Community Live Chat
-
-- Projects Showcase 
-
-- Live Trading Chart & Metrics
-
-- Desktop/Mobile Compatibility
+- OP Token Burn Station
+- Transaction History
+- Metamask Connection
+- Particle VFX
+- 
 
 ## Trailer 
 [![Everything Is AWESOME](https://yt-embed.herokuapp.com/embed?v=gZm_n5MFZWQ)](https://youtu.be/gZm_n5MFZWQ "QUIVER PROJECT WEBSITE LAUNCH TRAILER")
