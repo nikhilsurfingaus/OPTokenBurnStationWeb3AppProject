@@ -41,7 +41,15 @@ Our website offers the following features:
 - Transaction History
 - Metamask Connection
 - Particle VFX
-- 
+
+## Application Process
+- Connect To Metamask using Transaction Context API
+- Use Sanity to create or load user details and tranactions
+- Deduct funds via deployed smart contract on Goreli Optimism Testnet
+- Load Spinning UI
+- Save Transaction to Sanity DB 
+- Display Trabsaction History with TXN Hash Link to Etherscan
+- Ability to refresh page
 
 ## Trailer 
 [![Everything Is AWESOME](https://yt-embed.herokuapp.com/embed?v=gZm_n5MFZWQ)](https://youtu.be/gZm_n5MFZWQ "QUIVER PROJECT WEBSITE LAUNCH TRAILER")
