@@ -9,18 +9,27 @@ src="https://www.rlogical.com/wp-content/uploads/2021/08/Rlogical-Blog-Images-th
 <img src="https://www.sanity.io/static/images/logo_rounded_square.png" alt="drawing" width="100"/>
 <img src="https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png" alt="drawing" width="100"/>
 <img src="https://cryptologos.cc/logos/optimism-ethereum-op-logo.png" alt="drawing" width="100"/>
+<img src="https://avatars.githubusercontent.com/u/59892387?v=4" alt="drawing" width="100"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/MetaMask_Fox.svg/2048px-MetaMask_Fox.svg.png" alt="drawing" width="100"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" alt="drawing" width="100"/>
 
-- The **React** Framework Library Web Application Quiver, can either be used in Mobile/Desktop/Tablet modes with responsive design. 
+- **React** Framework Library Web Application Optimism Burn Station Web Application currently deployed on the OP ETH Goerli Testnet enables users to burn their OP Tokens, decreasing circulating supply, subsequently increasing the value of the OP Tokenomics.
 
-- The Backend is powered by Firestores **Firebase** real time database, allowing for the websites live chat component to operate. 
+- **NextJs** is a frontend JavaScript framework built on React's UI library that is lightweight, server-rendered, and flexible. Developers typically use Next. js to build static, fully interactive sites and apps that are fast and easy to use.
 
-- **Metamask** is also integrated, enabling users to connect their Metamask wallet to view their funds available (Eth), although no transactions take place, having a quick glance at a wallet balance when browsing the NFT market place allows for 
-improved usability. 
+- **Metamask** is also integrated, enabling users to connect their Metamask wallet to burn OP Tokens, as a transaction with the server side
+Ethereum Deployed Solidty Smart Contract
 
-- **PostMan** is the API client which handles requests to the **CoinStats** Cryptp API for metrics about the current crypto price, market cap, total supply and volume
-for Quiver Coin (QIVC)
+- **Sanity** Datastore is the schemaless backend that stores and query's JSON documents, and subscribe to real-time changes. It comes with a query API that uses the query language GROQ to quickly filter down to the documents exactly the data structured using those schemas. 
+
+- **Hardhat** 
+
+- **Solidity** 
+
+- **Optimism** 
+
+- **Tailwind.css** 
+
 
 ## Description 
 Quiver calls all ocean lovers and wave chargers to own pieces of surfing history with NFT surfboards ridden by current and past legends of proffessional surfing. Quiver also aims to contribute towards the security of Ethereum Smart Contarcts with numerous projects that need your support.
