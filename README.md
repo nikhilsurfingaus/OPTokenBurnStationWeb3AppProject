@@ -51,8 +51,9 @@ Our website offers the following features:
 - Display Trabsaction History with TXN Hash Link to Etherscan
 - Ability to refresh page
 
-## Trailer 
-[![Everything Is AWESOME](https://yt-embed.herokuapp.com/embed?v=gZm_n5MFZWQ)](https://youtu.be/gZm_n5MFZWQ "QUIVER PROJECT WEBSITE LAUNCH TRAILER")
+## Video Demo 
+[![Watch the video](http://img.youtube.com/vi/UEgdeZbM8Zc/hqdefault.jpg)](https://youtu.be/UEgdeZbM8Zc)
+
 
 ## Screenshots 
 <p float="left">
