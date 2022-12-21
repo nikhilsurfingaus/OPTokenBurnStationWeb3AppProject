@@ -1,4 +1,4 @@
-# <img src="https://github.com/nikhilsurfingaus/QuiverNFTWebApp/blob/master/public/favicon.ico" alt="drawing" width="100"/> Quiver
+# <img src="https://cryptologos.cc/logos/optimism-ethereum-op-logo.png" alt="drawing" width="100"/> Optimism OP Burner Web Application 
 
 ## Site Link: [https://opburnstation.com](https://op-token-burner-station-app.vercel.app/)
 
