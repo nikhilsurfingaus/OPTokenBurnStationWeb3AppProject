@@ -5,10 +5,12 @@
 ## Website Powered By 
 
 <img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png" alt="drawing" width="100"/> <img 
-src="https://firebase.google.com/images/brand-guidelines/logo-vertical.png" alt="drawing" width="100"/> 
-<img src="https://yt3.ggpht.com/ytc/AMLnZu_bZz66jLBsycj-vvHpGDFsqqC2EwCByH4KWi0J=s900-c-k-c0x00ffffff-no-rj" alt="drawing" width="100"/>
-<img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/gknmszuswhzcwxxxsuis" alt="drawing" width="100"/>
-<img src="https://www.kindpng.com/picc/m/730-7305731_transparent-ubuntu-logo-png-postman-log-png-download.png" alt="drawing" width="100"/>
+src="https://www.rlogical.com/wp-content/uploads/2021/08/Rlogical-Blog-Images-thumbnail.png" alt="drawing" width="100"/> 
+<img src="https://www.sanity.io/static/images/logo_rounded_square.png" alt="drawing" width="100"/>
+<img src="https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png" alt="drawing" width="100"/>
+<img src="https://cryptologos.cc/logos/optimism-ethereum-op-logo.png" alt="drawing" width="100"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/MetaMask_Fox.svg/2048px-MetaMask_Fox.svg.png" alt="drawing" width="100"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" alt="drawing" width="100"/>
 
 - The **React** Framework Library Web Application Quiver, can either be used in Mobile/Desktop/Tablet modes with responsive design. 
 
