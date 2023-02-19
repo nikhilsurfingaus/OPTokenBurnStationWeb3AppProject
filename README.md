@@ -1,6 +1,6 @@
 # Optimism OP Burner Web Application  <img src="https://github.com/nikhilsurfingaus/OPTokenBurnStationWeb3AppProject/blob/master/client/assets/siteLogo.png" alt="drawing" width="100"/> 
 
-## Site Link: [https://opburnstation.com](https://op-token-burner-station-app.vercel.app/)
+## Link: [https://opburnstation.com](https://op-token-burner-station-app.vercel.app/)
 
 ## Website Powered By 
 
